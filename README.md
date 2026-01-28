@@ -16,7 +16,8 @@ An end-to-end **Machine Learning + Data Engineering + Deployment** project that 
 ---
 
 ## 🚀 Demo 
-*(Will add deployed Streamlit link here once we are live)*  
+https://ishivanshh-mlmodel-matchwinner-app-tlzcyt.streamlit.app/
+
 
 ## Github Repo link 
 https://github.com/ishivanshh/MLmodel_matchwinner
