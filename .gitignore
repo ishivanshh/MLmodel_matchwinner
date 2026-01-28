@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# datasets
+IPL.csv
+*.csv
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# logs
+catboost_info/
