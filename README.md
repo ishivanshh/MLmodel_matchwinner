@@ -112,5 +112,10 @@ The goal is to **predict the winning team before the match starts** using only p
 - 📈 Confidence Progress Bar
 
 
+### To run streamlit app 
+- python3 -m streamlit run app.py
+
+
+
 
 
